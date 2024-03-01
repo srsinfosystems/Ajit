@@ -1,4 +1,5 @@
 # Ajit
+<img src="https://github.com/srsinfosystems/Ajit](https://www.teamob.ai/images/ajit.gif">
 
 <b>Hi there! I'm Ajit a  skilled React Native developer with 6 years of experience, specializing in building high-quality mobile applications for iOS and Android platforms. I'm passionate about crafting robust and intuitive user experiences through elegant code and clean architecture.</b>
 
